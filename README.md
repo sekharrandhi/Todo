@@ -1,2 +1,2 @@
 # Todo
-visit the site open:sekhartodo.ccbp.tech
+visit the site open:http://sekhartodo.ccbp.tech
